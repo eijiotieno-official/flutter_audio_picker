@@ -2,17 +2,6 @@
 
 Welcome to the **Flutter Audio Picker** repository! This repository contains the source code of an audio picker app build using Flutter.
 
-## Installation
-
-To run this App on your local machine, follow these steps:
-
-1. Make sure you have Flutter and Dart installed. If not, you can download them from the official Flutter website.
-2. Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/eijiotieno-official/flutter-sentence-cutter-app.git
-```
-
 ## Screenshots
 
 ### Home Page without picked audio
